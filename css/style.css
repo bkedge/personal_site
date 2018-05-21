@@ -1,0 +1,46 @@
+
+.body-text{
+    color: #777777;
+    font-size: 1.5em;
+    font-family: 'Raleway';
+}
+
+#umsl{
+    color: #dd0606;
+}
+
+#umsl:hover{
+    color: yellow;
+}
+
+#github{
+    color: lightseagreen;
+}
+
+#github:hover{
+    color:#f7a342;
+}
+
+#linkedIn{
+    color: #b245a5;
+}
+
+#linkedIn:hover{
+    color: lightskyblue;
+}
+
+#stl{
+    color: #57ce39;
+}
+
+#stl:hover{
+    color: #bc2323;
+}
+
+#rams{
+    color: #efa613;
+}
+
+#rams:hover{
+    color: #57ce39;
+}
